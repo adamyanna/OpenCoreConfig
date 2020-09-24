@@ -1395,7 +1395,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>4</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
